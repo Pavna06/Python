@@ -6,6 +6,6 @@ entered, it displays 'Coconut'.
 
 ### Code
 x=input("Enter 'A', 'B' or 'C': ")
-x.upper()
+x=x.upper()
 dict={'A':"Apple",'B':"Banana",'C':"Coconut"}
 print(dict[x])
