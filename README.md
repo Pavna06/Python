@@ -1,2 +1,1 @@
-# Python
-Python codes
+# Beginner Python Codes
